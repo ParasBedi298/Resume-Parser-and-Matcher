@@ -1,6 +1,6 @@
 # Resume-Parser-and-Matcher
 
-This is an NLP based Resume Parser and Matcher project.
+This is an NLP based Resume Parser and Matcher project. The project was built in a team of 5, under the course Machine Learning (IC-272) at IIT Mandi.
 
 Techstack used: NLP, Spacy3, Custom NER, Token_to_vector, Cosine Similarity
 
