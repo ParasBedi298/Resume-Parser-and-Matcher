@@ -14,3 +14,5 @@ Working:
 The Code_notebook.ipynb contains all the code.
 On running the code, model will start training.
 All required files are attached.
+
+The full explanation of the project (code & working) is explained in [this video.] (https://youtu.be/lIcSQqbD5C4)
